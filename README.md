@@ -1,7 +1,7 @@
 # AzureML-Solved-Challenges
 
 
-#Flights Challenge
+# Flights Challenge
 This is a Exploratory Analysis Challenge, its main purpose is test Pandas and Numpy Skills
 
 1. Cleaning Missing data and Filtering
